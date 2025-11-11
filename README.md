@@ -67,19 +67,21 @@ Trong mô hình này:
 ## 🖼️ 3. Hình ảnh chức năng
 
 <p align="center">
-  <img src="docs/login.jpg" alt="Login Screen" width="250"/>
-  <img src="docs/dashboard.jpg" alt="Dashboard" width="250"/>
-  <img src="docs/events.jpg" alt="Events" width="250"/>
+  <img src="docs/3.jpg" alt="Giao diện đăng nhập" width="250"/>
 </p>
-<p align="center"><em>Hình 1: Giao diện đăng nhập – trang chủ – hoạt động công đoàn</em></p>
-
+<p align="center"><em>Hình 1: Giao diện đăng nhập</em></p>
 <p align="center">
-  <img src="docs/members.jpg" alt="Members" width="250"/>
-  <img src="docs/funds.jpg" alt="Funds" width="250"/>
-  <img src="docs/stats.jpg" alt="Statistics" width="250"/>
+  <img src="docs/6.jpg" alt="" width="250"/>
 </p>
-<p align="center"><em>Hình 2: Quản lý đoàn viên – quỹ – thống kê</em></p>
-
+<p align="center"><em>Hình 2: Giao diện người dùng</em></p>
+<p align="center">
+  <img src="docs/9.jpg" alt="" width="250"/>
+</p>
+<p align="center"><em>Hình 3: Giao diện tin tức</em></p>
+<p align="center">
+  <img src="docs/7.jpg" alt="" width="250"/>
+</p>
+<p align="center"><em>Hình 4: Cán bộ đoàn</em></p>
 ---
 
 ## ⚙️ 4. Các bước cài đặt
