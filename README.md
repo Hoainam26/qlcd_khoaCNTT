@@ -1,0 +1,2 @@
+# qlcd_khoaCNTT
+quanlycongdoan
